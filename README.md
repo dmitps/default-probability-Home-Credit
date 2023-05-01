@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
     <h1>Credit scoring (determining the probability of default)</h1>
 </div>
 
@@ -37,7 +37,6 @@ ____
 **POS_CASH_balance.csv**
 * Monthly balance snapshots of previous POS (point of sales) and cash loans that the applicant had with Home Credit
 * This table has one row for each month of history of every previous credit in Home Credit (consumer credit and cash loans) related to loans in our sample – i.e. the table has (#loans in sample * # of relative previous credits * # of months in which we have some history observable for the previous credits) rows
-
 
 **credit_card_balance.csv**
 * Monthly balance snapshots of previous credit cards that the applicant has with Home Credit
