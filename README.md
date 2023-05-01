@@ -2,10 +2,8 @@
     <h1>Credit scoring (determining the probability of default)</h1>
 </div>
 
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/default-probability-home-credit/blob/main/images/Home%20Credit%20Default%20Risk.png">
-        <img src="https://github.com/dmitps/default-probability-home-credit/blob/main/images/Home%20Credit%20Default%20Risk.png">
-    </a>
+<div align="center">
+  <img src="./images/Home Credit Default Risk.png" alt="Home Credit Default Risk">
 </div>
 
 Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data - including telco and transactional information - to predict their clients' repayment abilities.
@@ -20,10 +18,8 @@ ____
 
 ### Dataset Description
 
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/default-probability-home-credit/blob/main/images/Data.png">
-        <img src="https://github.com/dmitps/default-probability-home-credit/blob/main/images/Data.png">
-    </a>
+<div align="center">
+  <img src="./images/Data.png" alt="Data" width="80%">
 </div>
 
 **application_{train|test}.csv**
