@@ -95,3 +95,24 @@ ____
     
     <div align="center">
       <img src="./images/Number of clients in each target class by type of organization.png" alt="Number of clients in each target class by type of organization">
+
+____
+
+### part-2
+**This section of the study includes:**
+* Feature Engineering
+* Merging tables
+* Machine learning
+
+<div align="center">
+  <img src="./images/Feature Importance (Top 20).png" alt="Feature Importance (Top 20)">
+</div>
+
+____
+
+### Result
+The result of this study corresponds to the Top 10% (bronze medal)
+
+<div align="center">
+  <img src="./images/Private Score.png" alt="Private Score">
+</div>
