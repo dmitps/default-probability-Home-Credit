@@ -56,3 +56,38 @@ ____
 
 ____
 
+### part-1
+
+**This section of the study includes:**
+* EDA (Exploratory Data Analysis)
+* Baseline and best model, containing
+    * Distribution of clients by TARGET classes
+    
+    <div align="center">
+      <img src="./images/Distribution of clients by TARGET classes.png" alt="Distribution of clients by TARGET classes" width="80%">
+    </div>
+
+    * Distribution of clients by level of education
+
+    <div align="center">
+      <img src="./images/Distribution of clients by level of education.png" alt="Distribution of clients by level of education" width="80%">
+    </div>
+    
+    * Distribution of clients by type of income
+    
+    <div align="center">
+      <img src="./images/Distribution of clients by type of income.png" alt="Distribution of clients by type of income" width="80%">
+    </div>
+    
+    * Number of clients in each target class by occupation
+    
+    <div align="center">
+      <img src="./images/Number of clients in each target class by occupation.png" alt="Number of clients in each target class by occupation" width="80%">
+    </div>
+    
+    * Number of clients in each target class by type of organization
+    
+    <div align="center">
+      <img src="./images/Number of clients in each target class by type of organization.png" alt="Number of clients in each target class by type of organization" width="80%">
+      
+    * Number of clients in each target class by type of organization
