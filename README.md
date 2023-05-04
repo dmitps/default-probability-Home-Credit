@@ -60,41 +60,56 @@ ____
 
 **This section of the study includes:**
 * EDA (Exploratory Data Analysis)
-* Baseline and best model, containing
-    * Distribution of clients by TARGET classes
-    
-    <div align="center">
-      <img src="./images/Distribution of clients by TARGET classes.png" alt="Distribution of clients by TARGET classes" width="90%">
-    </div>
+* Preprocessing and normalization
+* Baseline and best model
 
-    * Distribution of clients by level of education
+<div align="center">
+    <h4>Distribution of clients by TARGET classes</h4>
+</div>
+   
+<div align="center">
+  <img src="./images/Distribution of clients by TARGET classes.png" alt="Distribution of clients by TARGET classes" width="90%">
+</div>
 
-    <div align="center">
-      <img src="./images/Distribution of clients by level of education.png" alt="Distribution of clients by level of education" width="90%">
-    </div>
+<div align="center">
+    <h4>Distribution of clients by level of education</h4>
+</div>
+
+<div align="center">
+  <img src="./images/Distribution of clients by level of education.png" alt="Distribution of clients by level of education" width="90%">
+</div>
+
+<div align="center">
+    <h4>Distribution of clients by type of income</h4>
+</div>
     
-    * Distribution of clients by type of income
-    
-    <div align="center">
-      <img src="./images/Distribution of clients by type of income.png" alt="Distribution of clients by type of income" width="90%">
-    </div>
-    
-    * Distribution of clients by age and TARGET classes
-    
-    <div align="center">
-      <img src="./images/Distribution of clients by age and TARGET classes.png" alt="Distribution of clients by age and TARGET classes">
-    </div>
-    
-    * Number of clients in each target class by occupation
-    
-    <div align="center">
-      <img src="./images/Number of clients in each target class by occupation.png" alt="Number of clients in each target class by occupation">
-    </div>
-    
-    * Number of clients in each target class by type of organization
-    
-    <div align="center">
-      <img src="./images/Number of clients in each target class by type of organization.png" alt="Number of clients in each target class by type of organization">
+<div align="center">
+  <img src="./images/Distribution of clients by type of income.png" alt="Distribution of clients by type of income" width="90%">
+</div>
+
+<div align="center">
+    <h4>Distribution of clients by age and TARGET classes</h4>
+</div>
+
+<div align="center">
+  <img src="./images/Distribution of clients by age and TARGET classes.png" alt="Distribution of clients by age and TARGET classes">
+</div>
+
+<div align="center">
+    <h4>Number of clients in each target class by occupation</h4>
+</div>
+
+<div align="center">
+  <img src="./images/Number of clients in each target class by occupation.png" alt="Number of clients in each target class by occupation">
+</div>
+
+<div align="center">
+    <h4>Number of clients in each target class by type of organization</h4>
+</div>
+
+<div align="center">
+  <img src="./images/Number of clients in each target class by type of organization.png" alt="Number of clients in each target class by type of organization">
+</div>
 
 ____
 
@@ -103,6 +118,10 @@ ____
 * Feature Engineering
 * Merging tables
 * Machine learning
+
+<div align="center">
+    <h4>Feature Importance</h4>
+</div>
 
 <div align="center">
   <img src="./images/Feature Importance (Top 20).png" alt="Feature Importance (Top 20)">
