@@ -56,6 +56,12 @@ ____
 
 ____
 
+### Description of the study
+
+The work notebooks are located in the part-1 and part-2 folders. Notebook from the part-1 folder can be run independently. However, the notebooks in the part-2 folder must be run sequentially according to the numbering. This is due to the fact that Feature Engineering is performed in notebooks 1 through 7 (new features are generated and added to the main table). In Notebook 8, the main table is connected to the additional ones and training is performed using the best model that was defined in part-1.
+
+____
+
 ### part-1
 
 **This section of the study includes:**
