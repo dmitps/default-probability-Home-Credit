@@ -141,3 +141,5 @@ The result of this study corresponds to the Top 10% (bronze medal)
 <div align="center">
   <img src="./images/Private Score.png" alt="Private Score">
 </div>
+
+____
